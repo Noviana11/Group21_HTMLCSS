@@ -1,0 +1,1287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.forumkomunitas-EnV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .logo-fcu {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .logo-fcu .logo-1-Ccq {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .logo-fcu .tanggapbanjir-un9 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .beranda-2rm {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .layanan-Yq7 {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .kontak-ssP {
+  margin: 0.2rem 22rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .daftar-zSD {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-tymo-N81 .masuk-Jxh {
+  width: 13.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK {
+  box-sizing: border-box;
+  padding: 4rem 13rem 4.9rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb {
+  margin-bottom: 0.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem 2.9rem 1.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-az9w-mzh {
+  margin: 0rem 90.9rem 1rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 3.3rem 0rem 3.4rem;
+  height: 5.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #82cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .ceritakan-pengalamanmu-inspirasi-serta-upaya-kita-bersama-untuk-melawan-banjir-qUm {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB {
+  margin-right: 6.9rem;
+  width: calc(100% - 6.9rem);
+  height: 14.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .ellipse-21-sRT {
+  margin-right: 2.4rem;
+  width: 14.5rem;
+  height: 14.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-21-bg.png');
+  border-radius: 7.25rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf {
+  box-sizing: border-box;
+  padding: 0.9rem 1.1rem 0rem 1.6rem;
+  width: 92rem;
+  height: 100%;
+  background-color: #fdfbfb;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .apa-yang-terjadi-K2Z {
+  margin-bottom: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 {
+  margin-left: 0.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 .photo-camera-1-CMF {
+  margin: 0rem 0.6rem 0.3rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 .video-camera-1-vHF {
+  margin-right: 0.6rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 .happy-1-TY5 {
+  margin: 0rem 0.6rem 0.7rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 .poll-1-b8V {
+  margin: 0rem 62rem 0.9rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .auto-group-b87j-4Kb .auto-group-2u21-YPB .auto-group-jpsy-aqf .auto-group-njzw-FS1 .posting-X29 {
+  margin-bottom: 0.7rem;
+  width: 14.2rem;
+  height: 4.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #82cd47;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .kotakpengalaman-WJ5 .lihat-semua-kisah-menarik-di-sini-ZDj {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm {
+  margin-bottom: 0.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 1.8rem 0.9rem;
+  width: 100%;
+  height: 17.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .ellipse-22-aPj {
+  margin: 0rem 1.5rem 1.5rem 0rem;
+  width: 13.2rem;
+  height: 13.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-22-bg-ZYm.png');
+  border-radius: 6.6rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm {
+  width: 101.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-q7v1-DxV {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-q7v1-DxV .olivia-olivia125-NaV {
+  margin: 0.4rem 62.7rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-q7v1-DxV .olivia-olivia125-NaV .olivia-olivia125-NaV-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-q7v1-DxV .olivia-olivia125-NaV .olivia-olivia125-NaV-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-q7v1-DxV .menit-yang-lalu-SCy {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 {
+  width: 99.5rem;
+  height: 10.5rem;
+  position: relative;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-iwB {
+  width: 87.7rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-iwB .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-iwB-sub-0 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-iwB .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-iwB-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .group-167-wBf {
+  width: 12.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 86.8rem;
+  top: 7.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .group-167-wBf .like-1-4GH {
+  margin: 0rem 2.5rem 0.2rem 0rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .group-167-wBf .chat-1-ye9 {
+  margin-right: 2.1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-194-fGm .auto-group-kmr9-gSm .auto-group-1gnu-mm3 .group-167-wBf .share-1-Wty {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX {
+  margin-bottom: 0.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 1.9rem 0.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .ellipse-22-VW1 {
+  margin-right: 1.5rem;
+  width: 13.2rem;
+  height: 13.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-22-bg.png');
+  border-radius: 6.6rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q {
+  width: 101.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV .noah-noahft11-v5X {
+  margin: 0.4rem 64.4rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV .noah-noahft11-v5X .noah-noahft11-v5X-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV .noah-noahft11-v5X .noah-noahft11-v5X-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV .noah-noahft11-v5X .noah-noahft11-v5X-sub-2 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .auto-group-fuyh-xeV .jam-yang-lalu-4L9 {
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-Q97 {
+  max-width: 87.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-Q97 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-Q97-sub-0 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-koww-9h3 .auto-group-qiz7-c4q .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-Q97 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-Q97-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-tlqp-TWh {
+  margin-right: 2.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-tlqp-TWh .rectangle-148-12R {
+  margin: 0rem 40.7rem 2rem 0rem;
+  width: 45.1rem;
+  height: 21.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-tlqp-TWh .like-1-utV {
+  margin: 0rem 2.5rem 0.2rem 0rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-tlqp-TWh .chat-1-3E1 {
+  margin-right: 2.1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-195-2MX .auto-group-tlqp-TWh .share-1-nBb {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd {
+  margin-bottom: 0.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 1.8rem 0.9rem;
+  width: 100%;
+  height: 17.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .ellipse-22-p8H {
+  margin: 0rem 1.5rem 1.5rem 0rem;
+  width: 13.2rem;
+  height: 13.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-22-bg-VTw.png');
+  border-radius: 6.6rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb {
+  width: 101.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-g5tm-Gky {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-g5tm-Gky .olivia-olivia125-1yT {
+  margin: 0.4rem 62.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-g5tm-Gky .olivia-olivia125-1yT .olivia-olivia125-1yT-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-g5tm-Gky .olivia-olivia125-1yT .olivia-olivia125-1yT-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-g5tm-Gky .september-2023-afB {
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF {
+  width: 99.5rem;
+  height: 10.5rem;
+  position: relative;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-4qF {
+  width: 87.7rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-4qF .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-4qF-sub-0 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-4qF .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-4qF-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .group-167-XsF {
+  width: 12.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 86.8rem;
+  top: 7.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .group-167-XsF .like-1-G49 {
+  margin: 0rem 2.5rem 0.2rem 0rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .group-167-XsF .chat-1-zVw {
+  margin-right: 2.1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-196-Jvd .auto-group-vyp3-XHb .auto-group-vqw3-vDF .group-167-XsF .share-1-Y1f {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w {
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 1.9rem 0.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .ellipse-22-jrq {
+  margin-right: 1.5rem;
+  width: 13.2rem;
+  height: 13.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-22-bg-VgD.png');
+  border-radius: 6.6rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB {
+  width: 101.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo .noah-noahft11-MdK {
+  margin: 0.4rem 62.8rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo .noah-noahft11-MdK .noah-noahft11-MdK-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo .noah-noahft11-MdK .noah-noahft11-MdK-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo .noah-noahft11-MdK .noah-noahft11-MdK-sub-2 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .auto-group-89wf-obo .september-2023-vK3 {
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-G81 {
+  max-width: 87.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-G81 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-G81-sub-0 {
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-d4q1-C6D .auto-group-spx5-FqB .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-G81 .relawan-adalah-cahaya-di-tengah-badai-banjir-bersama-sama-kita-berusaha-untuk-menerangi-dan-menyelamatkan-masyarakat-yang-terkena-dampak-relawanaksi-relawansiaga-G81-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-w1iz-N4Z {
+  margin-right: 2.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-w1iz-N4Z .rectangle-148-i8R {
+  margin: 0rem 40.7rem 2rem 0rem;
+  width: 45.1rem;
+  height: 21.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-w1iz-N4Z .like-1-e25 {
+  margin: 0rem 2.5rem 0.2rem 0rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-w1iz-N4Z .chat-1-yKF {
+  margin-right: 2.1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .auto-group-km8m-afK .group-197-s3w .auto-group-w1iz-N4Z .share-1-iXj {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-l8fk-v81 {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-l8fk-v81 .tentang-kita-3TX {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-l8fk-v81 .kontak-P1b {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-l8fk-v81 .tags-8E5 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-PQu {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-gs93-e5w {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-gs93-e5w .vector-Mm3 {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-gs93-e5w .telephone-call-2-1-uXf {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-gs93-e5w .auto-group-dyxm-3tm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-uk13-JJu {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-uk13-JJu .jalan-mawar-no01-jakarta-qJq {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-uk13-JJu .item-0812-8764-8757-xuF {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-uk13-JJu .tanggapbanjirgmailcom-gqF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-tda9-XL5 {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-tda9-XL5 .auto-group-b9ub-ST3 {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-tda9-XL5 .auto-group-ckhs-8Ks {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-wfsr-Rpm {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-wfsr-Rpm .auto-group-pc6m-AnM {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-bvws-Ni5 .auto-group-wfsr-Rpm .auto-group-bkty-fDK {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-46c9-Z3o {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-46c9-Z3o .auto-group-lswu-WDw {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-cm2h-4dX .auto-group-fks3-Rnq .auto-group-46c9-Z3o .auto-group-1d1s-zQ1 {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .line-1-V5s {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-nzwy-nqf {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-nzwy-nqf .vector-hhj {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-nzwy-nqf .senin-minggu-24-jam-EBs {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-nzwy-nqf .auto-group-arp5-kvu {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-nzwy-nqf .auto-group-bbcm-2tR {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-x7gu-7us {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .line-2-zyf {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.9992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .hubungi-kami-8py {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .auto-group-gqjd-MSq {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .tanggapbanjirgmailcom-Gph {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .auto-group-nmds-CCZ {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .tanggapbanjir123-Wj3 {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .auto-group-d6bt-Ssb {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .tanggapbanjir123-B4V {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .auto-group-kdsh-uFP {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-nfjo-yTf .auto-group-zcnm-Et1 .tanggapbanjir123-dhB {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-3vuj-Mt5 {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-3vuj-Mt5 .copyright2023-Hmj {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.forumkomunitas-EnV .footer-22d .auto-group-3vuj-Mt5 .icon-copyright-2DX {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

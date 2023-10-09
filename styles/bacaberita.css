@@ -1,0 +1,1614 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.bacaberita-ri5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .logo-WGq {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .logo-WGq .logo-1-SgH {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .logo-WGq .tanggapbanjir-xPj {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .beranda-fow {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .layanan-ag1 {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .kontak-WJm {
+  margin: 0.2rem 22rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .daftar-cMo {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-epmt-o7X .buttonmasuk-Kn1 {
+  width: 13.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m {
+  box-sizing: border-box;
+  padding: 5.7rem 12.9rem 6.3rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T {
+  margin: 0rem 0.1rem 1.9rem 0rem;
+  width: 118rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-ifw1-qds {
+  box-sizing: border-box;
+  padding-bottom: 2.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-ifw1-qds .bencana-banjir-melanda-masyarakat-bersatu-dalam-membantu-korban-mnR {
+  max-width: 93.1rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-ifw1-qds .kumpulan-berita-terkini-VCd {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-wxbb-Rc5 {
+  margin-bottom: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.1rem 1.1rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-wxbb-Rc5 .search-1-Ygh {
+  margin: 0.2rem 2.1rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-wxbb-Rc5 .judul-tanggal-tempat-g2D {
+  margin-right: 64.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .auto-group-wxbb-Rc5 .enter-1-CmF {
+  margin-bottom: 0.3rem;
+  width: 6.6rem;
+  height: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .tagline-i3T .banjir-menerjang-kami-memberitakan-6rd {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 {
+  margin: 0rem 0.1rem 3.5rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .rectangle-31-YCq {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX {
+  margin: 0rem 0.6rem 0.1rem 0rem;
+  width: 73rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-qfw9-vjB {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-qfw9-vjB .banjir-bandang-5MB {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-qfw9-vjB .jakarta-selatan-21-september-2023-DCV {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-qfw9-vjB .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-wPP {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .baca-deskripsi-j4M {
+  margin: 0rem 1rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .icon-next-outline-EWu {
+  margin: 0rem 35.9rem 2.4rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .icon-eye-wgD {
+  margin: 0rem 0.754rem 0.217rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .item-187-TuT {
+  margin-right: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .icon-instagram-likes-zeV {
+  margin: 0rem 0.7rem 0.17rem 0rem;
+  width: 2rem;
+  height: 2.0297rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .item-145-WMw {
+  margin-right: 4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .auto-group-7zau-zqX .auto-group-gyox-BoX .icon-comments-3cm {
+  margin-bottom: 0.3306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita1-RP7 .auto-group-cfpf-4gy .item-96-n4Z {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 {
+  margin: 0rem 0rem 3.5rem 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .rectangle-31-dL5 {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR {
+  margin: 0rem 0.7rem 0.1rem 0rem;
+  width: 72.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-h7cd-E4y {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-h7cd-E4y .banjir-bandang-NBB {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-h7cd-E4y .jakarta-selatan-21-september-2023-JqX {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-h7cd-E4y .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-RfF {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .baca-deskripsi-DLD {
+  margin: 0rem 0.9rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .icon-next-outline-Y7b {
+  margin: 0rem 35.9rem 2.2rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .icon-eye-egR {
+  margin: 0rem 0.854rem 0.217rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .item-187-yih {
+  margin-right: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .icon-instagram-likes-iRP {
+  margin: 0rem 0.8rem 0.27rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .item-145-3Cm {
+  margin-right: 3.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .auto-group-aaim-HvR .auto-group-jqpo-GQy .icon-comments-Mz9 {
+  margin-bottom: 0.4306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita2-6b3 .auto-group-cwem-ZUd .item-96-Hso {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR {
+  margin: 0rem 0rem 3.5rem 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .rectangle-31-jE1 {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh {
+  margin: 0rem 0.7rem 0.1rem 0rem;
+  width: 72.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-6xzh-KCD {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-6xzh-KCD .banjir-bandang-rhw {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-6xzh-KCD .jakarta-selatan-21-september-2023-153 {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-6xzh-KCD .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-L7K {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .baca-deskripsi-Xhb {
+  margin: 0rem 0.9rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .icon-next-outline-TLM {
+  margin: 0rem 35.9rem 2.4rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .icon-eye-mM3 {
+  margin: 0rem 0.854rem 0.217rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .item-187-gU1 {
+  margin-right: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .icon-instagram-likes-DTw {
+  margin: 0rem 0.8rem 0.17rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .item-145-wPw {
+  margin-right: 3.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .auto-group-pszw-Brh .auto-group-yhey-anM .icon-comments-gMX {
+  margin-bottom: 0.5306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita3-QxR .auto-group-9agy-41P .item-96-oh3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo {
+  margin: 0rem 0rem 3.5rem 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .rectangle-31-rfK {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ {
+  margin: 0rem 0.7rem 0.1rem 0rem;
+  width: 72.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-wfds-FhT {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-wfds-FhT .banjir-bandang-oU5 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-wfds-FhT .jakarta-selatan-21-september-2023-YRf {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-wfds-FhT .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-rx9 {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .baca-deskripsi-s6Z {
+  margin: 0rem 0.9rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .icon-next-outline-bHT {
+  margin: 0rem 35.9rem 2.2rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .icon-eye-6zu {
+  margin: 0rem 0.854rem 0.117rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .item-187-RnH {
+  margin-right: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .icon-instagram-likes-NBj {
+  margin: 0rem 0.8rem 0.07rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .item-145-gy7 {
+  margin-right: 3.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .auto-group-eilr-XWZ .auto-group-unlh-7NH .icon-comments-dNZ {
+  margin-bottom: 0.3306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita4-jKo .auto-group-pt1w-zWd .item-96-ZGD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj {
+  margin: 0rem 0rem 3.5rem 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .rectangle-31-ogM {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 {
+  margin: 0rem 0.7rem 0.1rem 0rem;
+  width: 72.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-vbbp-11j {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-vbbp-11j .banjir-bandang-Lph {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-vbbp-11j .jakarta-selatan-21-september-2023-HV3 {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-vbbp-11j .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-QpZ {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .baca-deskripsi-D1K {
+  margin: 0rem 0.8rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .icon-next-outline-wCD {
+  margin: 0rem 36rem 2.4rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .icon-eye-41w {
+  margin: 0rem 0.854rem 0.317rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .item-187-yPo {
+  margin-right: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .icon-instagram-likes-Wed {
+  margin: 0rem 0.8rem 0.27rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .item-145-EqX {
+  margin-right: 3.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .auto-group-usbb-585 .auto-group-dhgd-rgZ .icon-comments-n6M {
+  margin-bottom: 0.5306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita5-gbj .auto-group-4cgh-wGm .item-96-stV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P {
+  margin: 0rem 0.1rem 6.4rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .rectangle-31-KVb {
+  width: 38rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 0 0 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 0.9rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj {
+  margin: 0rem 0.6rem 0.1rem 0rem;
+  width: 73rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-vss5-J6d {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-vss5-J6d .banjir-bandang-2oK {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-vss5-J6d .jakarta-selatan-21-september-2023-ZoF {
+  margin-bottom: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-vss5-J6d .bergabunglah-relawan-bersama-kita-bisa-menyelamatkan-nyawa-dan-memberikan-harapan-kepada-mereka-yang-membutuhkan-dalam-situasi-darurat-banjir-tindakan-anda-bisa-membuat-perbedaan-besar-daftar-sebagai-relawan-banjir-hari-ini-HjF {
+  max-width: 72rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .baca-deskripsi-UYq {
+  margin: 0rem 1rem 2.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .icon-next-outline-c9F {
+  margin: 0rem 35.9rem 2.4rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .icon-eye-XX7 {
+  margin: 0rem 0.754rem 0.317rem 0rem;
+  width: 2.7461rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .item-187-FT7 {
+  margin-right: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .icon-instagram-likes-PJR {
+  margin: 0rem 0.7rem 0.27rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .item-145-7VK {
+  margin-right: 4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .auto-group-893f-Zuj .auto-group-cnbk-LSd .icon-comments-TZB {
+  margin-bottom: 0.5306rem;
+  width: 2.1rem;
+  height: 1.7694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .berita6-c5P .auto-group-ttc5-eGy .item-96-b9b {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .selanjutnya-X3F {
+  margin-left: 94.4rem;
+  box-sizing: border-box;
+  padding: 2rem 3.5rem;
+  width: calc(100% - 94.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .selanjutnya-X3F .selanjutnya-3nH {
+  margin-right: 1.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .auto-group-umgd-Q2m .selanjutnya-X3F .icon-arrow-right-zBj {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-yrp7-ntH {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-yrp7-ntH .tentang-kita-7ff {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-yrp7-ntH .kontak-TDj {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-yrp7-ntH .tags-zDf {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-ybP {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-1mpv-dA9 {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-1mpv-dA9 .vector-jiy {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-1mpv-dA9 .telephone-call-2-1-5nq {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-1mpv-dA9 .auto-group-it3j-cnm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-w1u3-xbj {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-w1u3-xbj .jalan-mawar-no01-jakarta-6C9 {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-w1u3-xbj .item-0812-8764-8757-25o {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-w1u3-xbj .tanggapbanjirgmailcom-9gD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-e985-Bso {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-e985-Bso .auto-group-1gyp-6zm {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-e985-Bso .auto-group-e1g5-mr1 {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-7wpd-UEd {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-7wpd-UEd .auto-group-svlm-QPB {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-iqrd-Ehf .auto-group-7wpd-UEd .auto-group-6eyw-JDf {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-yzh7-CK3 {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-yzh7-CK3 .auto-group-6xxw-9VB {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hf7f-LHX .auto-group-7udj-gw3 .auto-group-yzh7-CK3 .auto-group-g65f-SDP {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .line-1-7qK {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-kenu-eaM {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-kenu-eaM .vector-AYh {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-kenu-eaM .senin-minggu-24-jam-tzV {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-kenu-eaM .auto-group-iw1k-RjX {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-kenu-eaM .auto-group-k6q1-6Ks {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-hchw-mwo {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .line-2-7PP {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.1992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .hubungi-kami-SgZ {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .auto-group-evxt-f3X {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .tanggapbanjirgmailcom-agH {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .auto-group-7glr-VYM {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .tanggapbanjir123-pKj {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .auto-group-l137-9N1 {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .tanggapbanjir123-4zm {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .auto-group-nllh-CbB {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-bwzu-FNZ .auto-group-qumt-khF .tanggapbanjir123-8jj {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-baa5-Tn1 {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-baa5-Tn1 .copyright2023-nJV {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bacaberita-ri5 .footer-6Em .auto-group-baa5-Tn1 .icon-copyright-hwF {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

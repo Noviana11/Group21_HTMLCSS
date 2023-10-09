@@ -1,0 +1,956 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.formulirdaftarrelawanindividu-exy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .logo-guf {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .logo-guf .logo-1-d4D {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .logo-guf .tanggapbanjir-jsw {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .beranda-4fK {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .layanan-BE9 {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .kontak-WXK {
+  margin: 0.2rem 22rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .daftar-cKT {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-czr1-aLq .masuk-8Yh {
+  width: 13.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h {
+  box-sizing: border-box;
+  padding: 2.9rem 13rem 13.7rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .judul-8h7 {
+  margin: 0rem 24.5rem 5.6rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .judul-8h7 .formulir-pendaftaran-menjadi-relawan-banjir-56Z {
+  margin-bottom: 0.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .judul-8h7 .jadilah-relawan-yang-bertanggung-jawab-melaksanakan-tugas-sepenuh-hati-PN9 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj {
+  width: 100%;
+  height: 151.1rem;
+  position: relative;
+  background-color: #71cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .pastikan-anda-telah-memenuhi-syarat-dan-ketentuan-yang-ditetapkan-ENm {
+  width: 72.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-70-iHw {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 6.7rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-70-iHw .nik-3b7 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-70-iHw .rectangle-3-b6q {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-71-J1F {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 17.5rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-71-J1F .nama-lengkap-dZK {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-71-J1F .rectangle-3-aDf {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-72-VbX {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 28.3rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-72-VbX .jenis-kelamin-EZ7 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-72-VbX .rectangle-3-BDT {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-73-5pd {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 39.1rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-73-5pd .tanggal-lahir-okd {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-73-5pd .rectangle-3-YTK {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-75-5CM {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 49.9rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-75-5CM .usia-ci5 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-75-5CM .rectangle-3-AUh {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-76-tvV {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 60.7rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-76-tvV .profesi-qKw {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-76-tvV .rectangle-3-Beh {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-77-7YM {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 71.5rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-77-7YM .institusi-f45 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-77-7YM .auto-group-n32r-zMF {
+  box-sizing: border-box;
+  padding: 2.1rem 0.6rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-78-FHB {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 82.3rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-78-FHB .alamat-yys {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-78-FHB .rectangle-3-v8R {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-79-e4R {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 93.1rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-79-e4R .kota-P21 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-79-e4R .rectangle-3-KRT {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-80-eCq {
+  width: 114.6rem;
+  height: 9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 103.9rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-80-eCq .provinsi-acH {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-80-eCq .rectangle-3-vRF {
+  width: 100%;
+  height: 6.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-81-es3 {
+  width: 115rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 114.7rem;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-81-es3 .motivasi-zg1 {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .group-81-es3 .rectangle-3-w5T {
+  width: 100%;
+  height: 18.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.formulirdaftarrelawanindividu-exy .auto-group-hdqm-16h .isidaftar-hdj .daftar-G7j {
+  width: 23.7rem;
+  height: 7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 92.6rem;
+  top: 140.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-zgho-b3X {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-zgho-b3X .tentang-kita-JyX {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-zgho-b3X .kontak-F85 {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-zgho-b3X .tags-z5f {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-FnH {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-abso-WTK {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-abso-WTK .vector-E8R {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-abso-WTK .telephone-call-2-1-NkR {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-abso-WTK .auto-group-rxff-ukM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-c4fb-FZK {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-c4fb-FZK .jalan-mawar-no01-jakarta-Bxm {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-c4fb-FZK .item-0812-8764-8757-7rR {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-c4fb-FZK .tanggapbanjirgmailcom-qXX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-szhf-g2M {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-szhf-g2M .auto-group-nxhb-ocm {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-szhf-g2M .auto-group-gtp3-JJd {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-apxb-BtD {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-apxb-BtD .auto-group-fabt-vL1 {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-gvxf-X9T .auto-group-apxb-BtD .auto-group-mxwo-Qky {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-ngpb-W3K {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-ngpb-W3K .auto-group-4cim-FWh {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-g4df-Ktd .auto-group-pw4v-aED .auto-group-ngpb-W3K .auto-group-tmlm-jwf {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .line-1-E7j {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-7a9x-ZQu {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-7a9x-ZQu .vector-H61 {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-7a9x-ZQu .senin-minggu-24-jam-zm7 {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-7a9x-ZQu .auto-group-8c6d-vem {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-7a9x-ZQu .auto-group-g9n9-oTf {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-juzx-hJ9 {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .line-2-AxR {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.9992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .hubungi-kami-WFb {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .auto-group-7okd-XRb {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .tanggapbanjirgmailcom-3eq {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .auto-group-xzdb-kp9 {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .tanggapbanjir123-5bX {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .auto-group-i6jk-c5f {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .tanggapbanjir123-XTX {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .auto-group-fdz9-rVo {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-x9ww-sNR .auto-group-6mox-R7f .tanggapbanjir123-nPT {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-a6hp-7gd {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-a6hp-7gd .copyright2023-3aH {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formulirdaftarrelawanindividu-exy .footer-uwP .auto-group-a6hp-7gd .icon-copyright-yD3 {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

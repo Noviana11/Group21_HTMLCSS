@@ -1,0 +1,820 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.formdonasi-tRf {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+}
+.formdonasi-tRf .auto-group-szoo-DTw {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .logo-vdF {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .logo-vdF .logo-1-f53 {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .logo-vdF .tanggapbanjir-Nk9 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .beranda-hGd {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .layanan-Qgq {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .kontak-LaV {
+  margin: 0.2rem 22rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .daftar-rHw {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-szoo-DTw .masuk-yNZ {
+  width: 13.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV {
+  box-sizing: border-box;
+  padding: 2.5rem 13rem 8.3rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T {
+  margin: 0rem 80rem 2.4rem 0rem;
+  width: 38rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T .isi-nominal-donasi-uQd {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T .auto-group-v4e5-2VF {
+  margin-bottom: 0.4rem;
+  box-sizing: border-box;
+  padding: 2.1rem 3.3rem 2.1rem 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T .auto-group-v4e5-2VF .rp-ws7 {
+  margin-right: 25.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T .auto-group-v4e5-2VF .item-0-HRB {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nominal-a7T .min-donasi-rp-10000-QVo {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z .pembayaran-dilakukan-melalui--HZb {
+  margin-bottom: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z .auto-group-1k4d-DCM {
+  box-sizing: border-box;
+  padding: 1.8rem 2.8rem 1.7rem 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z .auto-group-1k4d-DCM .bank-1-YEd {
+  margin-right: 2.5rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z .auto-group-1k4d-DCM .transfer-bank-gLq {
+  margin-right: 70.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .transaksi-L8Z .auto-group-1k4d-DCM .bca-2-R3X {
+  width: 11.9rem;
+  height: 9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nama-pesan-YP3 {
+  margin-bottom: 7.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nama-pesan-YP3 .nama-opsional-V3P {
+  margin-bottom: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nama-pesan-YP3 .rectangle-152-cdo {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 7.9rem;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nama-pesan-YP3 .pesan-atau-dukungan-YGZ {
+  margin-bottom: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .nama-pesan-YP3 .rectangle-153-fry {
+  width: 100%;
+  height: 7.9rem;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .konfirmdonasi-oCV {
+  box-sizing: border-box;
+  padding: 0.2rem 2.8rem 0.2rem 1.8rem;
+  width: 100%;
+  height: 16rem;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .konfirmdonasi-oCV .auto-group-qw5b-vY1 {
+  margin: 0rem 70.5rem 3.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .konfirmdonasi-oCV .auto-group-qw5b-vY1 .total-donasi-GLy {
+  margin-bottom: 0.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .konfirmdonasi-oCV .auto-group-qw5b-vY1 .rp-0-CkR {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .auto-group-kp29-ezV .konfirmdonasi-oCV .lanjut-9Qm {
+  margin: 3.7rem 0rem 3.6rem 0rem;
+  width: 22.4rem;
+  height: calc(100% - 7.3rem);
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #82cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-cnvu-UbT {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-cnvu-UbT .tentang-kita-ns3 {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-cnvu-UbT .kontak-8AD {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-cnvu-UbT .tags-G1X {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-jA1 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-wqed-BXo {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-wqed-BXo .vector-6Ps {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-wqed-BXo .telephone-call-2-1-eRP {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-wqed-BXo .auto-group-1kmb-n1o {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-ntcu-iw3 {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-ntcu-iw3 .jalan-mawar-no01-jakarta-Tdj {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-ntcu-iw3 .item-0812-8764-8757-ayF {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-ntcu-iw3 .tanggapbanjirgmailcom-Wc1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-sqgz-8NV {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-sqgz-8NV .auto-group-kjyj-RcV {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-sqgz-8NV .auto-group-s7l5-hpu {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-dfbp-o7F {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-dfbp-o7F .auto-group-hbff-8vD {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-riz5-arm .auto-group-dfbp-o7F .auto-group-qzsy-ECZ {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-vu13-8Yq {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-vu13-8Yq .auto-group-ke3k-tH7 {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-hkzz-c5P .auto-group-1vmp-3M3 .auto-group-vu13-8Yq .auto-group-ypgu-PDs {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .line-1-gim {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-amdb-Dih {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-amdb-Dih .vector-kTj {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-amdb-Dih .senin-minggu-24-jam-5W1 {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-amdb-Dih .auto-group-7sad-cVw {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-amdb-Dih .auto-group-acph-hXP {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-cxc5-ar5 {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .line-2-f6q {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.9992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .hubungi-kami-C6m {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .auto-group-mpnh-2Lh {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .tanggapbanjirgmailcom-9RK {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .auto-group-xy9o-GF3 {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .tanggapbanjir123-zgq {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .auto-group-jg17-LEu {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .tanggapbanjir123-ryw {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .auto-group-dbcm-z4Z {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-x8jj-wLd .auto-group-srbf-7Dj .tanggapbanjir123-KMj {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-7c3k-eQ1 {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-7c3k-eQ1 .copyright2023-Nau {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.formdonasi-tRf .footer-B6Z .auto-group-7c3k-eQ1 .icon-copyright-tp9 {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

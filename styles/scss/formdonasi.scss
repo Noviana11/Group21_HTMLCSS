@@ -1,0 +1,845 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.formdonasi-tRf {
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+
+  .auto-group-szoo-DTw {
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    background-color: #2c2902;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 3rem 13.3rem;
+    width: 100%;
+
+    .logo-vdF {
+      margin: 0rem 20.7rem 0.5rem 0rem;
+      cursor: pointer;
+      display: flex;
+      align-items: flex-end;
+      flex-shrink: 0;
+
+      .logo-1-f53 {
+        margin: 0rem 1.1rem 0.1rem 0rem;
+        width: 3.5rem;
+        height: 3.4rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .tanggapbanjir-Nk9 {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2rem;
+        font-weight: 700;
+        line-height: 1.5;
+        color: #f8f5e7;
+      }
+    }
+    .beranda-hGd {
+      flex-shrink: 0;
+      cursor: pointer;
+      font-weight: 700;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0.2rem 3.2rem 0rem 0rem;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      color: #f8f5e7;
+    }
+    .layanan-Qgq {
+      flex-shrink: 0;
+      margin: 0.2rem 4.1rem 0rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #f8f5e7;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .kontak-LaV {
+      color: #f8f5e7;
+      flex-shrink: 0;
+      margin: 0.2rem 22rem 0rem 0rem;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      white-space: nowrap;
+      cursor: pointer;
+      font-weight: 400;
+      font-family: Poppins, 'Source Sans Pro';
+    }
+    .daftar-rHw {
+      line-height: 1.5;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.2rem 3.7rem 0rem 0rem;
+      cursor: pointer;
+      font-size: 1.6rem;
+      font-weight: 400;
+      color: #f8f5e7;
+      font-family: Poppins, 'Source Sans Pro';
+    }
+    .masuk-yNZ {
+      width: 13.3rem;
+      height: 100%;
+      cursor: pointer;
+      color: #2c2902;
+      white-space: nowrap;
+      align-items: center;
+      flex-shrink: 0;
+      font-weight: 700;
+      font-family: Poppins, 'Source Sans Pro';
+      justify-content: center;
+      border-radius: 1rem;
+      line-height: 1.5;
+      font-size: 1.6rem;
+      display: flex;
+      background-color: #fefefe;
+    }
+  }
+  .auto-group-kp29-ezV {
+    box-sizing: border-box;
+    padding: 2.5rem 13rem 8.3rem 13rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .nominal-a7T {
+      margin: 0rem 80rem 2.4rem 0rem;
+      width: 38rem;
+      border-radius: 1rem;
+      flex-shrink: 0;
+
+      .isi-nominal-donasi-uQd {
+        color: #2c2902;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.5;
+      }
+      .auto-group-v4e5-2VF {
+        box-sizing: border-box;
+        padding: 2.1rem 3.3rem 2.1rem 2rem;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        background-color: #f3faec;
+        border-radius: 1rem;
+        margin-bottom: 0.4rem;
+
+        .rp-ws7 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 25.6rem;
+          font-size: 3.2rem;
+          font-weight: 700;
+          line-height: 1.5;
+          color: #b6b8b5;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .item-0-HRB {
+          font-size: 3.2rem;
+          font-weight: 700;
+          line-height: 1.5;
+          color: #b6b8b5;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .min-donasi-rp-10000-QVo {
+        white-space: nowrap;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #f3faec;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+    }
+    .transaksi-L8Z {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-bottom: 2.6rem;
+
+      .pembayaran-dilakukan-melalui--HZb {
+        margin-bottom: 0.3rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2902;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .auto-group-1k4d-DCM {
+        display: flex;
+        align-items: center;
+        background-color: #f3faec;
+        border-radius: 1rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 1.8rem 2.8rem 1.7rem 1.7rem;
+        width: 100%;
+
+        .bank-1-YEd {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 2.5rem;
+          width: 6rem;
+          height: 6rem;
+        }
+        .transfer-bank-gLq {
+          line-height: 1.5;
+          color: #2c2902;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 70.1rem;
+          font-size: 3.2rem;
+          font-weight: 700;
+        }
+        .bca-2-R3X {
+          width: 11.9rem;
+          height: 9rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .nama-pesan-YP3 {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      border-radius: 1rem;
+      flex-shrink: 0;
+      margin-bottom: 7.5rem;
+
+      .nama-opsional-V3P {
+        margin-bottom: 0.4rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2902;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .rectangle-152-cdo {
+        margin-bottom: 1.5rem;
+        width: 100%;
+        height: 7.9rem;
+        background-color: #f3faec;
+        border-radius: 1rem;
+        flex-shrink: 0;
+      }
+      .pesan-atau-dukungan-YGZ {
+        margin-bottom: 0.4rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #2c2902;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .rectangle-153-fry {
+        background-color: #f3faec;
+        border-radius: 1rem;
+        flex-shrink: 0;
+        width: 100%;
+        height: 7.9rem;
+      }
+    }
+    .konfirmdonasi-oCV {
+      box-sizing: border-box;
+      padding: 0.2rem 2.8rem 0.2rem 1.8rem;
+      width: 100%;
+      display: flex;
+      flex-shrink: 0;
+      height: 16rem;
+      align-items: center;
+      background-color: #f3faec;
+      border-radius: 1rem;
+
+      .auto-group-qw5b-vY1 {
+        margin: 0rem 70.5rem 3.1rem 0rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .total-donasi-GLy {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5rem;
+          font-size: 3.2rem;
+          font-weight: 700;
+          line-height: 1.5;
+          color: #2c2902;
+        }
+        .rp-0-CkR {
+          line-height: 1.5;
+          color: #2c2902;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 4.8rem;
+          font-weight: 700;
+        }
+      }
+      .lanjut-9Qm {
+        height: calc(100% - 7.3rem);
+        cursor: pointer;
+        color: #2c2902;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 1rem;
+        margin: 3.7rem 0rem 3.6rem 0rem;
+        white-space: nowrap;
+        font-weight: 700;
+        font-size: 3.6rem;
+        line-height: 1.5;
+        font-family: Poppins, 'Source Sans Pro';
+        background-color: #82cd47;
+        flex-shrink: 0;
+        width: 22.4rem;
+      }
+    }
+  }
+  .footer-B6Z {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .auto-group-x8jj-wLd {
+      flex-shrink: 0;
+      width: 100%;
+      height: 43.5rem;
+      position: relative;
+      background-color: #2c2902;
+
+      .auto-group-cnvu-UbT {
+        position: absolute;
+        left: 15rem;
+        top: 2.8rem;
+        display: flex;
+        align-items: center;
+        width: 91.7rem;
+        height: 3.6rem;
+
+        .tentang-kita-ns3 {
+          font-weight: 600;
+          line-height: 1.5;
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 30.7rem;
+          font-size: 2.4rem;
+        }
+        .kontak-8AD {
+          font-size: 2.4rem;
+          font-weight: 600;
+          line-height: 1.5;
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 30.6rem;
+        }
+        .tags-G1X {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 600;
+          line-height: 1.5;
+          color: #f3faec;
+        }
+      }
+      .auto-group-hkzz-c5P {
+        position: absolute;
+        left: 15rem;
+        top: 9.1rem;
+        display: flex;
+        align-items: center;
+        width: 115.2rem;
+        height: 9.7rem;
+
+        .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-jA1 {
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin: 0.1rem 10.3rem 0rem 0rem;
+          max-width: 33.9rem;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #f3faec;
+        }
+        .auto-group-wqed-BXo {
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin: 0.2rem 0.5rem 0.3rem 0rem;
+          height: calc(100% - 0.5rem);
+          row-gap: 2rem;
+
+          .vector-6Ps {
+            width: 1.4rem;
+            height: 1.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .telephone-call-2-1-eRP {
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 1.7rem;
+            height: 1.7rem;
+          }
+          .auto-group-1kmb-n1o {
+            height: 1.6rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 1.6rem;
+          }
+        }
+        .auto-group-ntcu-iw3 {
+          margin: 0rem 17.5rem 0.1rem 0rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .jalan-mawar-no01-jakarta-Tdj {
+            margin-bottom: 1.3rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #f3faec;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .item-0812-8764-8757-ayF {
+            font-weight: 400;
+            line-height: 1.5;
+            color: #f3faec;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 1.1rem;
+            font-size: 1.6rem;
+          }
+          .tanggapbanjirgmailcom-Wc1 {
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #f3faec;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-1vmp-3M3 {
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          width: 29.5rem;
+          align-items: center;
+          display: flex;
+
+          .auto-group-riz5-arm {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding-bottom: 0.3rem;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .auto-group-sqgz-8NV {
+              flex-shrink: 0;
+              margin: 0rem 8.7rem 0.3rem 0rem;
+              width: calc(100% - 8.7rem);
+              height: 3rem;
+              display: flex;
+              align-items: center;
+
+              .auto-group-kjyj-RcV {
+                width: 10rem;
+                display: flex;
+                align-items: center;
+                margin-right: 0.3rem;
+                justify-content: center;
+                background-color: #f3faec;
+                border-radius: 1rem;
+                font-size: 1.4rem;
+                font-weight: 400;
+                color: #2c2902;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                height: 100%;
+                flex-shrink: 0;
+                line-height: 1.5;
+              }
+              .auto-group-s7l5-hpu {
+                justify-content: center;
+                border-radius: 1rem;
+                font-size: 1.4rem;
+                color: #2c2902;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                align-items: center;
+                width: 10.5rem;
+                font-weight: 400;
+                display: flex;
+                background-color: #f3faec;
+                flex-shrink: 0;
+                height: 100%;
+                line-height: 1.5;
+              }
+            }
+            .auto-group-dfbp-o7F {
+              flex-shrink: 0;
+              margin-right: 2.5rem;
+              width: calc(100% - 2.5rem);
+              height: 3rem;
+              display: flex;
+              align-items: center;
+
+              .auto-group-hbff-8vD {
+                color: #2c2902;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                justify-content: center;
+                border-radius: 1rem;
+                font-size: 1.4rem;
+                height: 100%;
+                font-weight: 400;
+                margin-right: 0.4rem;
+                line-height: 1.5;
+                flex-shrink: 0;
+                width: 14.9rem;
+                align-items: center;
+                background-color: #f3faec;
+                display: flex;
+              }
+              .auto-group-qzsy-ECZ {
+                line-height: 1.5;
+                font-family: Poppins, 'Source Sans Pro';
+                border-radius: 1rem;
+                flex-shrink: 0;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                background-color: #f3faec;
+                font-size: 1.4rem;
+                white-space: nowrap;
+                align-items: center;
+                width: 11.7rem;
+                color: #2c2902;
+                font-weight: 400;
+              }
+            }
+          }
+          .auto-group-vu13-8Yq {
+            align-items: center;
+            flex-shrink: 0;
+            width: 100%;
+            height: 3rem;
+            display: flex;
+
+            .auto-group-ke3k-tH7 {
+              color: #2c2902;
+              white-space: nowrap;
+              border-radius: 1rem;
+              font-weight: 400;
+              align-items: center;
+              justify-content: center;
+              background-color: #f3faec;
+              height: 100%;
+              font-family: Poppins, 'Source Sans Pro';
+              display: flex;
+              flex-shrink: 0;
+              margin-right: 0.4rem;
+              width: 12.5rem;
+              font-size: 1.4rem;
+              line-height: 1.5;
+            }
+            .auto-group-ypgu-PDs {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              background-color: #f3faec;
+              width: 16.6rem;
+              font-size: 1.4rem;
+              font-weight: 400;
+              height: 100%;
+              line-height: 1.5;
+              color: #2c2902;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              border-radius: 1rem;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+      .line-1-gim {
+        position: absolute;
+        left: 15.3979rem;
+        top: 6.95rem;
+        background-color: #f3faec;
+        width: 10.5043rem;
+        height: 0.5rem;
+      }
+      .auto-group-amdb-Dih {
+        align-items: flex-end;
+        width: 67.7rem;
+        height: 3.3rem;
+        position: absolute;
+        left: 59.4rem;
+        top: 19.1rem;
+        display: flex;
+
+        .vector-kTj {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 0.6rem 0.4rem 0rem;
+          width: 1.4rem;
+          height: 1.4rem;
+        }
+        .senin-minggu-24-jam-5W1 {
+          flex-shrink: 0;
+          margin-right: 20.2rem;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-7sad-cVw {
+          justify-content: center;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          display: flex;
+          line-height: 1.5;
+          align-items: center;
+          background-color: #f3faec;
+          margin: 0rem 0.3rem 0.3rem 0rem;
+          height: 3rem;
+          font-weight: 400;
+          border-radius: 1rem;
+          width: 14.3rem;
+          font-size: 1.4rem;
+          color: #2c2902;
+        }
+        .auto-group-acph-hXP {
+          font-weight: 400;
+          white-space: nowrap;
+          background-color: #f3faec;
+          border-radius: 1rem;
+          flex-shrink: 0;
+          margin-bottom: 0.3rem;
+          height: 3rem;
+          display: flex;
+          justify-content: center;
+          font-size: 1.4rem;
+          align-items: center;
+          color: #2c2902;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 11.8rem;
+          line-height: 1.5;
+        }
+      }
+      .auto-group-cxc5-ar5 {
+        color: #2c2902;
+        font-family: Poppins, 'Source Sans Pro';
+        align-items: center;
+        justify-content: center;
+        background-color: #f3faec;
+        height: 3rem;
+        top: 22.4rem;
+        font-size: 1.4rem;
+        left: 100.7rem;
+        border-radius: 1rem;
+        white-space: nowrap;
+        width: 18rem;
+        position: absolute;
+        line-height: 1.5;
+        font-weight: 400;
+        display: flex;
+      }
+      .line-2-f6q {
+        position: absolute;
+        left: 12.9992rem;
+        top: 28.5rem;
+        background-color: #f3faec;
+        width: 118.0015rem;
+        height: 0.5rem;
+      }
+      .hubungi-kami-C6m {
+        height: 2.4rem;
+        line-height: 1.5;
+        white-space: nowrap;
+        top: 29.8rem;
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #f3faec;
+        font-family: Poppins, 'Source Sans Pro';
+        width: 11.6rem;
+        position: absolute;
+        left: 65.4rem;
+      }
+      .auto-group-srbf-7Dj {
+        display: flex;
+        align-items: center;
+        width: 99.6rem;
+        height: 4.3rem;
+        position: absolute;
+        left: 21.1rem;
+        top: 33.5rem;
+
+        .auto-group-mpnh-2Lh {
+          width: 4.2rem;
+          height: 4.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 1.3rem 0.1rem 0rem;
+        }
+        .tanggapbanjirgmailcom-9RK {
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 2.5rem 0.5rem 0rem;
+          font-size: 1.6rem;
+          font-weight: 600;
+          line-height: 1.5;
+        }
+        .auto-group-xy9o-GF3 {
+          width: 4.2rem;
+          height: 4.2rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 1.3rem 0.1rem 0rem;
+        }
+        .tanggapbanjir123-zgq {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 3.5rem 0.5rem 0rem;
+          font-size: 1.6rem;
+          font-weight: 600;
+          line-height: 1.5;
+          color: #f3faec;
+        }
+        .auto-group-jg17-LEu {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.1rem 1.3rem 0rem 0rem;
+          width: 4.2rem;
+          height: 4.2rem;
+          position: relative;
+        }
+        .tanggapbanjir123-ryw {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 4.4rem 0.3rem 0rem;
+          font-size: 1.6rem;
+          font-weight: 600;
+          line-height: 1.5;
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .auto-group-dbcm-z4Z {
+          height: 4.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.1rem 1.3rem 0rem 0rem;
+          width: 4.2rem;
+        }
+        .tanggapbanjir123-KMj {
+          line-height: 1.5;
+          color: #f3faec;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5rem;
+          font-size: 1.6rem;
+          font-weight: 600;
+        }
+      }
+    }
+    .auto-group-7c3k-eQ1 {
+      background-color: rgba(44, 41, 2, 0.5);
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+      width: 100%;
+      display: flex;
+      align-items: center;
+
+      .copyright2023-Nau {
+        color: rgba(44, 41, 2, 0.5);
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 0.1rem;
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 1.5;
+      }
+      .icon-copyright-tp9 {
+        margin-bottom: 0.0126rem;
+        width: 1.3874rem;
+        height: 1.3874rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,1410 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.panduan-edukasi-kJD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .logo-nEu {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .logo-nEu .logo-1-ieM {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .logo-nEu .tanggapbanjir-2uw {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .beranda-jpM {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .layanan-TEZ {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .kontak-aa5 {
+  margin: 0.2rem 22rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .daftar-iAV {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-xmwf-fg5 .masuk-3iZ {
+  width: 13.3rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd {
+  box-sizing: border-box;
+  padding: 4.3rem 13rem 4.2rem 12.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .pencarian-eiM {
+  margin: 0rem 4.6rem 4.7rem 5.2rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.9rem 1.4rem 2rem;
+  width: calc(100% - 9.8rem);
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .pencarian-eiM .search-1-kWV {
+  margin-right: 4.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .pencarian-eiM .vidio-edukasi-bencana-banjir-t6u {
+  margin-right: 43.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .pencarian-eiM .enter-1-ozZ {
+  margin-top: 0.5rem;
+  width: 6.6rem;
+  height: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj {
+  margin: 0rem 0.2rem 4.3rem 0.3rem;
+  width: calc(100% - 0.5rem);
+  height: 21.2rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .rectangle-30-qAZ {
+  width: 118rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2c2902;
+  border-radius: 1rem;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .jakarta-25-september-2023-xky {
+  width: 19.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 17.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .gambarcara-TBw {
+  width: 38.6rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .sosialisasi-cara-penanggulangan-bencana-banjir-nk1 {
+  width: 51rem;
+  height: 3rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .follow-VPX {
+  width: 15rem;
+  height: 5.0856rem;
+  position: absolute;
+  left: 100.2rem;
+  top: 8.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .logoyt-R2H {
+  width: 3.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 9.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .arieprabowo-9U5 {
+  width: 15.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 9.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid5-ibj .rb-subscriber-35-video-TzZ {
+  width: 28.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 13.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty {
+  margin: 0rem 0rem 5rem 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .gambarcara-uLm {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .sosialisasi-cara-penanggulangan-bencana-banjir-geM {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .auto-group-gqg5-xLy {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .auto-group-gqg5-xLy .logoyt-syj {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .auto-group-gqg5-xLy .arieprabowo-osP {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .rb-subscriber-35-video-kXj {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .auto-group-evxu-Mc5 .jakarta-25-september-2023-feh {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid4-Aty .auto-group-bvok-e3T .follow-bHT {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT {
+  margin: 0rem 0rem 5rem 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .gambarcara-qxV {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .sosialisasi-cara-penanggulangan-bencana-banjir-SxH {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .auto-group-rjxo-xvd {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .auto-group-rjxo-xvd .logoyt-uL5 {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .auto-group-rjxo-xvd .arieprabowo-qzR {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .rb-subscriber-35-video-Pm3 {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .auto-group-mpvd-uxM .jakarta-25-september-2023-vFB {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-KDT .auto-group-dclh-nMw .follow-r8q {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF {
+  margin: 0rem 0rem 5rem 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .gambarcara-7aZ {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .sosialisasi-cara-penanggulangan-bencana-banjir-jbw {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .auto-group-t2am-3cd {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .auto-group-t2am-3cd .logoyt-a6m {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .auto-group-t2am-3cd .arieprabowo-hhB {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .rb-subscriber-35-video-3m3 {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .auto-group-yvaq-Pny .jakarta-25-september-2023-kfT {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-yjF .auto-group-b7s7-4Vo .follow-gZ7 {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs {
+  margin: 0rem 0rem 5rem 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .gambarcara-YLR {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .sosialisasi-cara-penanggulangan-bencana-banjir-xuw {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .auto-group-amb7-tHo {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .auto-group-amb7-tHo .logoyt-2Q1 {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .auto-group-amb7-tHo .arieprabowo-mcV {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .rb-subscriber-35-video-vEV {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .auto-group-zcjk-pYq .jakarta-25-september-2023-STj {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-cBs .auto-group-ute9-VFf .follow-xws {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m {
+  margin: 0rem 0.5rem 5rem 0rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .gambarcara-pDP {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .sosialisasi-cara-penanggulangan-bencana-banjir-qeH {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .auto-group-xhbf-kmF {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .auto-group-xhbf-kmF .logoyt-J25 {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .auto-group-xhbf-kmF .arieprabowo-qXo {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .rb-subscriber-35-video-z9o {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .auto-group-bkbk-6Ro .jakarta-25-september-2023-Wdw {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid3-h8m .auto-group-5zem-ksj .follow-3tm {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH {
+  margin: 0rem 0.5rem 5rem 0rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .gambarcara-JZo {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .sosialisasi-cara-penanggulangan-bencana-banjir-Kjo {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .auto-group-yqjj-Erm {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .auto-group-yqjj-Erm .logoyt-n7b {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .auto-group-yqjj-Erm .arieprabowo-KdK {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .rb-subscriber-35-video-GHf {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .auto-group-mgtr-aXK .jakarta-25-september-2023-bKw {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid2-BEH .auto-group-fw25-e7s .follow-LHX {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB {
+  margin: 0rem 0.5rem 3.3rem 0rem;
+  width: calc(100% - 0.5rem);
+  height: 20.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .gambarcara-ahf {
+  width: 38.6rem;
+  height: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV {
+  box-sizing: border-box;
+  padding: 4rem 2.8rem 0.6rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT {
+  margin-right: 8.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .sosialisasi-cara-penanggulangan-bencana-banjir-QAu {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .auto-group-5ukm-7r1 {
+  margin: 0rem 31.2rem 1rem 0rem;
+  width: calc(100% - 31.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .auto-group-5ukm-7r1 .logoyt-FxD {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .auto-group-5ukm-7r1 .arieprabowo-c25 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .rb-subscriber-35-video-9nh {
+  margin: 0rem 0rem 0.9rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fdfbfb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .auto-group-6me9-TmT .jakarta-25-september-2023-UKB {
+  margin-left: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .vid1-GBB .auto-group-wpcr-7xV .follow-1K7 {
+  margin-bottom: 1.4144rem;
+  width: 15rem;
+  height: 5.0856rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .selanjutnya-LMP {
+  margin-left: 94.8rem;
+  box-sizing: border-box;
+  padding: 2rem 3.5rem;
+  width: calc(100% - 94.8rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .selanjutnya-LMP .selanjutnya-rqX {
+  margin-right: 1.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .auto-group-gv7b-Xtd .selanjutnya-LMP .icon-arrow-right-CeV {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-cass-Z7f {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-cass-Z7f .tentang-kita-4q7 {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-cass-Z7f .kontak-CRX {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-cass-Z7f .tags-w8D {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-nuX {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-coxm-F2R {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-coxm-F2R .vector-Z37 {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-coxm-F2R .telephone-call-2-1-VhT {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-coxm-F2R .auto-group-ehof-qFX {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-zftp-Aob {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-zftp-Aob .jalan-mawar-no01-jakarta-Juo {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-zftp-Aob .item-0812-8764-8757-EoT {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-zftp-Aob .tanggapbanjirgmailcom-Ah7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-zats-1Bw {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-zats-1Bw .auto-group-r5kw-Xg5 {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-zats-1Bw .auto-group-rdsf-D37 {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-ka1o-JaM {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-ka1o-JaM .auto-group-yjiv-3Xw {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-grtr-FTf .auto-group-ka1o-JaM .auto-group-kswh-L1F {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-ycdp-R2h {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-ycdp-R2h .auto-group-pxy9-y4D {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-mawb-5ER .auto-group-tv3j-WFB .auto-group-ycdp-R2h .auto-group-wktv-sQV {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .line-1-N6M {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-w7jo-hPX {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-w7jo-hPX .vector-pU9 {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-w7jo-hPX .senin-minggu-24-jam-LxH {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-w7jo-hPX .auto-group-amjz-H6q {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-w7jo-hPX .auto-group-iizv-mXo {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-rfjx-T9j {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .line-2-v3K {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.9992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .hubungi-kami-SXT {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .auto-group-gkn1-GFb {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .tanggapbanjirgmailcom-nzd {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .auto-group-k4av-uJZ {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .tanggapbanjir123-pwK {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .auto-group-rbqk-xGq {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .tanggapbanjir123-5MT {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .auto-group-kxys-c6V {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-dyzf-dUu .auto-group-kvks-YqP .tanggapbanjir123-jgu {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-4zr1-4z5 {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-4zr1-4z5 .copyright2023-18d {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.panduan-edukasi-kJD .footer-UM7 .auto-group-4zr1-4z5 .icon-copyright-ioj {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

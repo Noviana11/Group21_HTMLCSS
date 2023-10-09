@@ -1,0 +1,2052 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.relawan-LWD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #82cd47;
+}
+.relawan-LWD .auto-group-kj3w-Guf {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu {
+  box-sizing: border-box;
+  padding: 3rem 13.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .logo-YMP {
+  margin: 0rem 20.7rem 0.5rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .logo-YMP .logo-1-5MK {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 3.5rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .logo-YMP .tanggapbanjir-tZf {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .beranda-Qnu {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .layanan-8D7 {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .kontak-F2q {
+  margin: 0.2rem 22rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .daftar-AvV {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f8f5e7;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-mvxd-Dpu .masuk-JWu {
+  width: 13.3rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefefe;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z {
+  box-sizing: border-box;
+  padding: 2.5rem 13rem 6rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh {
+  margin: 0rem 32.9rem 3.2rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh .auto-group-hddj-2bK {
+  margin: 0rem 0rem 3.7rem 32.8rem;
+  width: 52.3rem;
+  height: 8.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh .auto-group-hddj-2bK .relawan-kita-9fw {
+  width: 28.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh .auto-group-hddj-2bK .bersama-sama-kita-bantu-relawan-banjir-siap-aksi-TRj {
+  width: 52.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh .individu-M1K {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .judul-uWh .satu-individu-satu-perubahan-jadi-relawan-banjir-5xu {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 {
+  margin-bottom: 3.7rem;
+  width: 100%;
+  height: 43.9rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o {
+  width: 28rem;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o .ellipse-7-6ND {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-7-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o .auto-group-yyku-oXX {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o .auto-group-yyku-oXX .ridwan-pratama-841 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o .auto-group-yyku-oXX .auto-group-wxxx-FeR {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel1-Y5o .auto-group-yyku-oXX .tahun-WqF {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf .ellipse-8-xSM {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-8-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf .auto-group-56st-gdF {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf .auto-group-56st-gdF .ridwan-pratama-pDf {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf .auto-group-56st-gdF .auto-group-ce8h-MUV {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel2-Djf .auto-group-56st-gdF .tahun-2Kj {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 .ellipse-9-t73 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-9-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 .auto-group-tg9f-Qr5 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 .auto-group-tg9f-Qr5 .ridwan-pratama-k9F {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 .auto-group-tg9f-Qr5 .auto-group-anth-tFT {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel3-jV3 .auto-group-tg9f-Qr5 .tahun-Meq {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR .ellipse-10-q4D {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-10-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR .auto-group-qyyb-MYM {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR .auto-group-qyyb-MYM .ridwan-pratama-tYH {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR .auto-group-qyyb-MYM .auto-group-axzh-qTX {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-qia5-oP7 .rel4-fvR .auto-group-qyyb-MYM .tahun-Jru {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V {
+  margin-bottom: 4.2rem;
+  width: 100%;
+  height: 43.9rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 .ellipse-11-i9w {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-11-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 .auto-group-s4nm-Sbj {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 .auto-group-s4nm-Sbj .ridwan-pratama-yLm {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 .auto-group-s4nm-Sbj .auto-group-b1yv-KQd {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel5-ZH3 .auto-group-s4nm-Sbj .tahun-QBB {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV .ellipse-12-TfF {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-12-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV .auto-group-vr3k-mfw {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV .auto-group-vr3k-mfw .ridwan-pratama-u1T {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV .auto-group-vr3k-mfw .auto-group-6q4q-dy3 {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel6-7LV .auto-group-vr3k-mfw .tahun-iDo {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV .ellipse-13-aG1 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-13-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV .auto-group-lbf7-up5 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV .auto-group-lbf7-up5 .ridwan-pratama-EbT {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV .auto-group-lbf7-up5 .auto-group-ryam-PDT {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel7-2EV .auto-group-lbf7-up5 .tahun-fAy {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K {
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K .ellipse-14-Xiy {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 28rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-14-bg.png');
+  border-radius: 14rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K .auto-group-1y9s-sH3 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.25rem 1rem 1.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K .auto-group-1y9s-sH3 .ridwan-pratama-PWH {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K .auto-group-1y9s-sH3 .auto-group-4it9-8im {
+  margin: 0rem 0rem 0.2rem 0.202rem;
+  box-sizing: border-box;
+  padding: 0.2rem 6.402rem 0rem 5.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.3rem #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .auto-group-3bjf-d8V .rel8-B9K .auto-group-1y9s-sH3 .tahun-QgH {
+  margin-right: 0.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .selengkapnyarelawan-8MP {
+  margin: 0rem 47.1rem 0rem 47.2rem;
+  box-sizing: border-box;
+  padding: 2rem 2.7rem;
+  width: calc(100% - 94.3rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #82cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .selengkapnyarelawan-8MP .selengkapnya-e4q {
+  margin-right: 0.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-kj3w-Guf .auto-group-ayjh-P2Z .selengkapnyarelawan-8MP .icon-arrow-right-B4m {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj {
+  box-sizing: border-box;
+  padding: 5.2rem 13rem 4.3rem 13rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .judul-komunitas-Biy {
+  margin: 0rem 62.9rem 4.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .judul-komunitas-Biy .komunitas-X29 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .judul-komunitas-Biy .komunitas-banjir-bersatu-demi-keselamatan-bersama-GEd {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 {
+  margin-bottom: 3.7rem;
+  width: 100%;
+  height: 45.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V {
+  width: 40rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .rectangle-26-K6R {
+  width: 38rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .rectangle-27-Swj {
+  width: 38rem;
+  height: 28.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .yayasan-rumah-solusi-beta-indonesia-ntt-mz1 {
+  width: 28.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 29.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .anggota-Gvm {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 35.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .aktivitas-PEh {
+  width: 8.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 38.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .likes-VYd {
+  width: 6.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .icon-users-c7T {
+  width: 2.8571rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .icon-activity-KnZ {
+  width: 2.2rem;
+  height: 2.5143rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 38.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom1-n6V .icon-instagram-likes-T85 {
+  width: 2rem;
+  height: 2.0296rem;
+  position: absolute;
+  left: 2rem;
+  top: 41.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu {
+  margin-right: 2rem;
+  width: 38rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .rectangle-27-i41 {
+  margin-bottom: 1.4rem;
+  width: 38rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .yayasan-rumah-solusi-beta-indonesia-ntt-dwf {
+  margin-left: 1.6rem;
+  max-width: 28.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 {
+  box-sizing: border-box;
+  padding: 0.1rem 1.6rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-zwvz-fdT {
+  margin: 0rem 21rem 0.1rem 0rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-zwvz-fdT .icon-users-C7b {
+  margin-right: 0.7429rem;
+  width: 2.8571rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-zwvz-fdT .anggota-ird {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-shjx-rhw {
+  margin: 0rem 22.5rem 0.5rem 0.3rem;
+  width: calc(100% - 22.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-shjx-rhw .icon-activity-nLh {
+  margin: 0rem 1.1rem 0.086rem 0rem;
+  width: 2.2rem;
+  height: 2.5143rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-shjx-rhw .aktivitas-hTf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-peem-3XX {
+  margin: 0rem 24.6rem 0rem 0.4rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-peem-3XX .icon-instagram-likes-BNq {
+  margin: 0.03rem 1.2rem 0rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom2-Zgu .auto-group-bxqf-Lr5 .auto-group-peem-3XX .likes-5DK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd {
+  width: 38rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .rectangle-27-6eD {
+  margin-bottom: 1.4rem;
+  width: 38rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .yayasan-rumah-solusi-beta-indonesia-ntt-2nm {
+  margin-left: 1.6rem;
+  max-width: 28.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF {
+  box-sizing: border-box;
+  padding: 0.1rem 1.6rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-w5yu-HTo {
+  margin: 0rem 21rem 0.1rem 0rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-w5yu-HTo .icon-users-Pmj {
+  margin-right: 0.7429rem;
+  width: 2.8571rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-w5yu-HTo .anggota-KQV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-fd4d-3rH {
+  margin: 0rem 22.5rem 0.5rem 0.3rem;
+  width: calc(100% - 22.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-fd4d-3rH .icon-activity-jz1 {
+  margin: 0rem 1.1rem 0.086rem 0rem;
+  width: 2.2rem;
+  height: 2.5143rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-fd4d-3rH .aktivitas-qn9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-yaem-Zi9 {
+  margin: 0rem 24.6rem 0rem 0.4rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-yaem-Zi9 .icon-instagram-likes-hJZ {
+  margin: 0.03rem 1.2rem 0rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-de2m-b21 .kom3-Mgd .auto-group-njrf-MKF .auto-group-yaem-Zi9 .likes-Qyf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 45.2rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u {
+  width: 38rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .rectangle-27-QsB {
+  margin-bottom: 1.4rem;
+  width: 38rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .yayasan-rumah-solusi-beta-indonesia-ntt-LVw {
+  margin-left: 1.6rem;
+  max-width: 28.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM {
+  box-sizing: border-box;
+  padding: 0.1rem 1.6rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-bwam-Y6D {
+  margin: 0rem 21rem 0.1rem 0rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-bwam-Y6D .icon-users-569 {
+  margin-right: 0.7429rem;
+  width: 2.8571rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-bwam-Y6D .anggota-CwT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-usph-Z1K {
+  margin: 0rem 22.5rem 0.5rem 0.3rem;
+  width: calc(100% - 22.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-usph-Z1K .icon-activity-tZP {
+  margin: 0rem 1.1rem 0.086rem 0rem;
+  width: 2.2rem;
+  height: 2.5143rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-usph-Z1K .aktivitas-ckH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-jmmb-ZQd {
+  margin: 0rem 24.6rem 0rem 0.4rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-jmmb-ZQd .icon-instagram-likes-txh {
+  margin: 0.03rem 1.2rem 0rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom3-f8u .auto-group-jtwb-ciM .auto-group-jmmb-ZQd .likes-zkq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T {
+  width: 38rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .rectangle-27-e4h {
+  margin-bottom: 1.4rem;
+  width: 38rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .yayasan-rumah-solusi-beta-indonesia-ntt-Mjo {
+  margin-left: 1.6rem;
+  max-width: 28.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH {
+  box-sizing: border-box;
+  padding: 0.1rem 1.6rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-s3cd-Qxy {
+  margin: 0rem 21rem 0.1rem 0rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-s3cd-Qxy .icon-users-YJV {
+  margin-right: 0.7429rem;
+  width: 2.8571rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-s3cd-Qxy .anggota-Uhw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-yy5s-DQd {
+  margin: 0rem 22.5rem 0.5rem 0.3rem;
+  width: calc(100% - 22.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-yy5s-DQd .icon-activity-vK3 {
+  margin: 0rem 1.1rem 0.086rem 0rem;
+  width: 2.2rem;
+  height: 2.5143rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-yy5s-DQd .aktivitas-Dow {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-wwrv-m4m {
+  margin: 0rem 24.6rem 0rem 0.4rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-wwrv-m4m .icon-instagram-likes-tQH {
+  margin: 0.03rem 1.2rem 0rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom5-h9T .auto-group-jfzb-gGH .auto-group-wwrv-m4m .likes-bpV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 {
+  width: 38rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .rectangle-27-UNV {
+  margin-bottom: 1.4rem;
+  width: 38rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .yayasan-rumah-solusi-beta-indonesia-ntt-bxu {
+  margin-left: 1.6rem;
+  max-width: 28.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 {
+  box-sizing: border-box;
+  padding: 0.1rem 1.6rem 1.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-izfb-22d {
+  margin: 0rem 21rem 0.1rem 0rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-izfb-22d .icon-users-97F {
+  margin-right: 0.7429rem;
+  width: 2.8571rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-izfb-22d .anggota-gN5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-mkpt-RaZ {
+  margin: 0rem 22.5rem 0.5rem 0.3rem;
+  width: calc(100% - 22.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-mkpt-RaZ .icon-activity-MUD {
+  margin: 0rem 1.1rem 0.086rem 0rem;
+  width: 2.2rem;
+  height: 2.5143rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-mkpt-RaZ .aktivitas-gWV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-46id-E2D {
+  margin: 0rem 24.6rem 0rem 0.4rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-46id-E2D .icon-instagram-likes-9us {
+  margin: 0.03rem 1.2rem 0rem 0rem;
+  width: 2rem;
+  height: 2.0296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .auto-group-detq-8Ps .kom6-jA1 .auto-group-isgh-8C9 .auto-group-46id-E2D .likes-UBT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #b6b8b5;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .selengkapnyakomunitas-aVP {
+  margin: 0rem 47.2rem 3.7rem 47.1rem;
+  box-sizing: border-box;
+  padding: 2rem 2.7rem;
+  width: calc(100% - 94.3rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .selengkapnyakomunitas-aVP .selengkapnya-FrR {
+  margin-right: 0.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .selengkapnyakomunitas-aVP .icon-arrow-right-zZ7 {
+  margin-top: 0.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs {
+  box-sizing: border-box;
+  padding: 2rem 1.1rem 1.9rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #2c2902;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .ayo-daftarkan-diri-atau-komunitas-anda-dalam-upaya-penanganan-banjir-1UD {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .bersama-membangun-jiwa-kepedulian-antar-sesama-833 {
+  margin: 0rem 0.2rem 2.8rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy {
+  margin: 0rem 33rem 0rem 32.8rem;
+  width: calc(100% - 65.8rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .individu-9yj {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.7rem 5rem 1.7rem 5.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #82cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .individu-9yj .individu-EEV {
+  margin-right: 1.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .individu-9yj .icon-next-outline-yC5 {
+  margin-bottom: 0.1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .komunitas-sHT {
+  box-sizing: border-box;
+  padding: 1.7rem 3.4rem 1.7rem 3.5rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #82cd47;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .komunitas-sHT .komunitas-QHP {
+  margin-right: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .auto-group-ezbk-fVj .kotakdaftar-VVs .auto-group-nnb3-ELy .komunitas-sHT .icon-next-outline-k6M {
+  margin-bottom: 0.1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+  background-color: #2c2902;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-yb5k-HEh {
+  width: 91.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-yb5k-HEh .tentang-kita-kty {
+  margin-right: 30.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-yb5k-HEh .kontak-6C9 {
+  margin-right: 30.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-yb5k-HEh .tags-dSy {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj {
+  width: 115.2rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: center;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .bukan-hanya-tindakan-kita-adalah-cermin-hati-yang-tulus-bersama-sama-kita-menjadikan-dunia-ini-tempat-yang-lebih-baik-bagi-mereka-yang-membutuhkan-JZ7 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  max-width: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-gjsm-x7s {
+  margin: 0.2rem 0.5rem 0.3rem 0rem;
+  height: calc(100% - 0.5rem);
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-gjsm-x7s .vector-3v1 {
+  width: 1.4rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-gjsm-x7s .telephone-call-2-1-169 {
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-gjsm-x7s .auto-group-rrxp-7ey {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-cznh-e97 {
+  margin: 0rem 17.5rem 0.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-cznh-e97 .jalan-mawar-no01-jakarta-At9 {
+  margin-bottom: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-cznh-e97 .item-0812-8764-8757-VvR {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-cznh-e97 .tanggapbanjirgmailcom-pxh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX {
+  margin-bottom: 0.1rem;
+  width: 29.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb {
+  box-sizing: border-box;
+  padding-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-3uqs-Fo7 {
+  margin: 0rem 8.7rem 0.3rem 0rem;
+  width: calc(100% - 8.7rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-3uqs-Fo7 .auto-group-ifpw-nHF {
+  margin-right: 0.3rem;
+  width: 10rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c2902;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-3uqs-Fo7 .auto-group-upm3-3DB {
+  width: 10.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-gx6z-hoX {
+  margin-right: 2.5rem;
+  width: calc(100% - 2.5rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-gx6z-hoX .auto-group-c46v-SFK {
+  margin-right: 0.4rem;
+  width: 14.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-eyms-hmb .auto-group-gx6z-hoX .auto-group-qdk5-vgH {
+  width: 11.7rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-hz3f-pWm {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-hz3f-pWm .auto-group-tgyf-Aad {
+  margin-right: 0.4rem;
+  width: 12.5rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-fpx5-ymj .auto-group-jejj-NDX .auto-group-hz3f-pWm .auto-group-eev5-Tpd {
+  width: 16.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .line-1-7PP {
+  width: 10.5043rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 15.3979rem;
+  top: 6.95rem;
+  background-color: #f3faec;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-vpqr-ED7 {
+  width: 67.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 19.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-vpqr-ED7 .vector-kBT {
+  margin: 0rem 0.6rem 0.4rem 0rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-vpqr-ED7 .senin-minggu-24-jam-rEV {
+  margin-right: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-vpqr-ED7 .auto-group-rurs-9UV {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 14.3rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-vpqr-ED7 .auto-group-1tyb-Pdj {
+  margin-bottom: 0.3rem;
+  width: 11.8rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-izfx-2wb {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3faec;
+  border-radius: 1rem;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .line-2-7TF {
+  width: 118.0015rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 12.8992rem;
+  top: 28.5rem;
+  background-color: #f3faec;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .hubungi-kami-dwP {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 {
+  width: 99.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 33.5rem;
+  display: flex;
+  align-items: center;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .auto-group-hjsq-f7P {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .tanggapbanjirgmailcom-B5j {
+  margin: 0rem 2.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .auto-group-pfrh-tVw {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .tanggapbanjir123-cRw {
+  margin: 0rem 3.5rem 0.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .auto-group-noxv-Lcq {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .tanggapbanjir123-fQD {
+  margin: 0rem 4.4rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .auto-group-sj5t-XxD {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 4.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-x6xj-Mbw .auto-group-qmhb-wx5 .tanggapbanjir123-rUh {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3faec;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-sphf-yJR {
+  box-sizing: border-box;
+  padding: 0.3rem 66.713rem 0.2rem 66.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(44, 41, 2, 0.5);
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-sphf-yJR .copyright2023-tgH {
+  margin-right: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(44, 41, 2, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.relawan-LWD .footer-CU9 .auto-group-sphf-yJR .icon-copyright-pK3 {
+  margin-bottom: 0.0126rem;
+  width: 1.3874rem;
+  height: 1.3874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
